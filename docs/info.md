@@ -13,7 +13,7 @@ This is just a demo for the CI Inovador
 
 ## How to test
 
-Nothing to test right now
+Nothing to test right now as we did nothing so far
 
 ## External hardware
 
