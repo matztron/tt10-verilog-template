@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is just a demo for the CI Inovador
 
 ## How to test
 
-Explain how to use your project
+Nothing to test right now
 
 ## External hardware
 
